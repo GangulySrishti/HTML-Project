@@ -1,0 +1,24 @@
+Examples of Hexadecimal Colors
+
+Black	-	#000000
+Gray	-	#C0C0C0
+Light Gray	-	#E8E8E8
+White	-	#FFFFFF
+Light Blue	-	#87CEFF
+Blue	-	#0000FF
+Dark Blue	-	#00008B
+Light Red	-	#FF6A6A
+Red	-	#FF0000
+Dark Red	-	#8B0000
+Light Green	-	#90EE90
+Green	-	#00FF00
+Dark Green	-	#008B00
+Light Yellow	-	#FFFFE0
+Yellow	-	#FF0000
+Gold	-	#FFD700
+Light Orange	-	#FFA500
+Orange	-	#FF8C00
+Dark Orange	-	#FF2400
+Light Magenta	-	#EE82EE
+Magenta	-	#FF00FF
+Dark Magenta	-	#8B008B
